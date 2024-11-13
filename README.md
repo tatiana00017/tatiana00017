@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/tatiana-campos-r/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:tatis00017@gmail.com" >
+  <a href="<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tatis00017@gmail.com&su=Asunto%20del%20correo&body=Cuerpo%20del%20mensaje">Enviar correo</a>" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
